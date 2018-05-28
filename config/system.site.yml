@@ -1,0 +1,14 @@
+uuid: 3f264c33-94ac-4db5-8724-03cb5aca9029
+name: pantheon-d8-composer-project-poc
+mail: barry.edwards@digitas.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
